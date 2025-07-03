@@ -1,0 +1,55 @@
+📈 Diwali Sales Dashboard — Analytical Insights
+
+🎯 Executive Summary
+
+- The total revenue generated during the Diwali campaign amounted to ₹10.6 Crore.
+- A total of 27,981 orders were placed, with an average order value of ₹3,797.
+- The customer base was extensive, comprising 3,752 unique customers.
+
+---
+
+👥 Customer Demographics
+
+- 🔥 The age group of 26–35 was the largest contributor, with **11,395 orders**, representing over **40%** of total sales.
+- 👩 Female customers contributed approximately **₹7.4 Cr**, which is around **70% of the total revenue**.
+- 🧑‍💼 Professionals from the **IT sector**, **Healthcare**, and **Aviation** were the highest spenders.
+
+---
+
+🌍 Regional Performance
+
+- 🥇 **Uttar Pradesh** topped the list with **₹1.93 Cr** in revenue.
+- 🥈 This was followed by **Maharashtra (₹1.44 Cr)** and **Karnataka (₹1.35 Cr)**.
+- Tier-2 states such as Madhya Pradesh also made significant contributions.
+
+Recommendation:
+Concentrate digital advertising expenditures and logistics support in these leading regions.
+
+---
+
+## 📦 Product & Category Insights
+
+- 🍲 The **Food** category generated **₹3.39 Cr**, accounting for over **32% of total revenue**.
+- 👕 **Clothing & Apparel + Footwear** collectively contributed more than **₹3.2 Cr**.
+- 📱 **Electronics & Gadgets** yielded an additional **₹1.56 Cr**.
+
+### Recommendation:
+Encourage combo offers and seasonal bundles across the top three product categories.
+
+---
+
+## 🧠 Strategic Insights
+
+- The top 20% of products accounted for nearly **65% of revenue**, indicating a **power law curve** in sales.
+- Customers demonstrated a strong willingness to spend during festive seasons, suggesting a focus on **high-margin items**.
+- The leading products alone generated over ₹20 Lakh in revenue.
+
+---
+
+## 🧭 Suggested Actions
+
+- 🎯 Aim to target the 26–35 age demographic with loyalty programs and exclusive discounts.
+- 📢 Tailor campaigns for professionals in IT, Healthcare, and Banking sectors.
+- 🛍️ Highlight top-selling products on the homepage and during upcoming festive sales.
+- 📩 Implement email and SMS campaigns segmented by state and profession.
+
